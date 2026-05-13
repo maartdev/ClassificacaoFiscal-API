@@ -2,7 +2,6 @@
 
 from fastapi import FastAPI
 from database import get_connection
-import requests
 
 app = FastAPI() # Objeto central
 
