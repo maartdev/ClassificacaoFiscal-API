@@ -12,6 +12,6 @@ def get_connection():
         port = os.getenv('DB_PORT'),  # Porta padrão do PostgreSQL
         database = os.getenv('DB_NAME'), # Nome do banco de dados
         user = os.getenv('DB_USER'),  # Usuário
-        password = os.getenv('DN_PASSWORD')    # Senha
+        password = os.getenv('DB_PASSWORD')    # Senha
     )
     return connection
