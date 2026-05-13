@@ -20,8 +20,8 @@ Desenvolvida com FastAPI e PostgreSQL.
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/maartdev/ClassificacaoFiscal-API.git
+cd ClassificacaoFiscal-API
 ```
 
 ### 2. Instale as dependências
