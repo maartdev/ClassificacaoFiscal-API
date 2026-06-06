@@ -261,7 +261,8 @@ Busca um produto específico pelo ID.
 A tabela IBPT é atualizada pelo governo a cada semestre (janeiro e julho).
 Quando uma nova tabela for lançada:
 
-1. Baixar o novo arquivo em: `https://github.com/devrafalima/tabela-ibpt`
+1. Baixar o novo arquivo em: `[https://github.com/devrafalima/tabela-ibpt](https://github.com/luizinhoh2o1/tabelas-ibpt
+)`
 2. Processar o CSV para o formato correto
 3. Executar no banco: `TRUNCATE TABLE ibpt;`
 4. Reimportar o novo CSV via pgAdmin
